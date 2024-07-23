@@ -1,1 +1,3 @@
-# Almaty_pretty_map
+# Almaty pretty map
+
+![](Almaty_city.png)
