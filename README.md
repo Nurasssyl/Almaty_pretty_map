@@ -1,0 +1,1 @@
+# Almaty_pretty_map
